@@ -1,0 +1,12 @@
+name = "bot"
+main = "worker.js"
+compatibility_date = "2026-03-27"
+
+[[kv_namespaces]]
+binding = "BOT_KV"
+id = "cf44bd085e864f448335dee13dedd62f"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "mcfrom-db"
+database_id = "25f4b14b-573c-4a0f-b18d-02c1b6306464"
